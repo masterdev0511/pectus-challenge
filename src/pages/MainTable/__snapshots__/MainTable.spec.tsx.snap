@@ -1,0 +1,56 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MainTable Page should render correcty 1`] = `
+.c0 {
+  width: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+
+<div
+  className="c0"
+>
+  <div
+    className="MuiBox-root css-z6i99g"
+  >
+    <header
+      className="MuiPaper-root MuiPaper-elevation MuiPaper-elevation4 MuiAppBar-root MuiAppBar-colorPrimary MuiAppBar-positionStatic css-hip9hq-MuiPaper-root-MuiAppBar-root"
+    >
+      <div
+        className="MuiToolbar-root MuiToolbar-gutters MuiToolbar-regular css-hyum1k-MuiToolbar-root"
+      >
+        <div
+          className="MuiBox-root css-1rqqp05"
+        >
+          <a
+            className="MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineAlways css-3kbvgh-MuiTypography-root-MuiLink-root"
+            href="/"
+            onBlur={[Function]}
+            onFocus={[Function]}
+          >
+            Main
+          </a>
+          <a
+            className="MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineAlways css-1fgl0vf-MuiTypography-root-MuiLink-root"
+            href="/amount"
+            onBlur={[Function]}
+            onFocus={[Function]}
+          >
+            Amount
+          </a>
+        </div>
+      </div>
+    </header>
+  </div>
+  0
+</div>
+`;
